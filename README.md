@@ -1,11 +1,20 @@
-## Hi there 👋
+# Zhiyao Ma
 
-## Zhiyao Ma
-## Environmental Engineering undergraduate | AI & Data Science
-## Research Assistant @ iHuman Lab, Oklahoma State University  
+Environmental Engineering undergraduate interested in **AI, Machine Learning, and Data Science**.
 
-## Research interests: Machine Learning, NLP, LLM Fine-tuning, Data Science，Blockchian  
+Research Assistant at **iHuman Lab, Oklahoma State University**.
+
+## Research Interests
+- Blockchian
+- Natural Language Processing
+- LLM Fine-tuning
+- Data Science
+- AI for Engineering Applications
 
 ## Featured Projects
-## - Qwen3 LoRA Financial Sentiment Classification
+- Qwen3 LoRA Financial Sentiment Classification
+- Aviation Safety & Human Factors Analysis
+- Comparative LLM Fine-tuning and Evaluation
 
+## Technical Skills
+Python · PyTorch · Hugging Face Transformers · PEFT · SQL · Git
